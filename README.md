@@ -9,7 +9,7 @@ A collection and showcase of open-source Telegram bots built specifically for Te
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [telegram-uploader-bot](https://github.com/AZiPA/telegram-uploader-bot) | Serverless file storage and sharing bot with protected deep links, PIN codes, and multi force-join channels. | @tgcloud/bot + Drizzle ORM | 🟢 Active |
-| *Upcoming Project* | Planned serverless utility bot. | @tgcloud/bot | 🟡 In Development |
+| *Upcoming Project* |  | @tgcloud/bot | 🟡 In Development |
 
 ---
 
