@@ -10,6 +10,7 @@ A collection and showcase of open-source Telegram bots built specifically for [T
 | :--- | :--- | :--- | :--- |
 | [Telegram-Uploader-Bot](https://github.com/AZiPA/telegram-uploader-bot) | Serverless file storage and sharing bot with protected deep links, PIN codes, and multi force-join channels. | @tgcloud/bot + Drizzle ORM | 🟢 Active |
 | [Telegram-Chat-Automation](https://github.com/AZiPA/telegram-chat-automation) | Telegram Business bot: recover deleted messages, track edits & save View-Once media | @tgcloud/bot + Drizzle ORM | 🟢 Active |
+| [Telegram-Widget-Bot](https://github.com/AZiPA/telegram-widget-bot) | Telegram widget bot & Profile 1 HTML chat widget engine | @tgcloud/bot + Drizzle ORM | 🟢 Active |
 | [Telegram-Serverless-Bot-Template](https://github.com/AZiPA//Telegram-Serverless-Bot-Template) | A Template for creating bot on Telegram Serverless. | @tgcloud/bot + Drizzle ORM | 🟡 In Development |
 | *Upcoming Project* |  | @tgcloud/bot | 🟡 In Development |
 
